@@ -4,10 +4,10 @@
 
 I enjoy building products that create real impact, whether it's a platform connecting skilled workers with customers or experimenting with new ideas and technologies.
 
-- 🔭 Currently working on Full Stack Web Applications
-- 👯 Looking to collaborate on Open Source and Innovative Projects
-- 💬 Ask me about MERN Stack, JavaScript, React, Node.js, MongoDB, MySQL, REST APIs
-- ⚡ Fun fact: Apart from development, I love writing quotes, creating content, exploring new technologies, and turning ideas into products.
+- Currently working on Full Stack Web Applications
+- Looking to collaborate on Open Source and Innovative Projects
+- Ask me about MERN Stack, JavaScript, React, Node.js, MongoDB, MySQL, REST APIs
+- Fun fact: Apart from development, I love writing quotes, creating content, exploring new technologies, and turning ideas into products.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imsunilbaghel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imsunilbaghel) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Imsunilbaghel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:official.sunilbaghel@gmail.com) 
